@@ -1,0 +1,9 @@
+La IP privada y pública de la máquina virtual
+IP privada 192.168.64.5
+IP pública 138.185.14.46
+
+La dirección MAC
+ether 72:67:8e:a7:19:73  txqueuelen 1000  (Ethernet)
+
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+Si en este caso el hostname de la maquina virtual es password
